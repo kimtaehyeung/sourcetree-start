@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae78ccdd-046b-450f-8e0e-89ec4402560a" name="Changes" comment="" />
+    <list default="true" id="ae78ccdd-046b-450f-8e0e-89ec4402560a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +38,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="devB" />
-                    <option name="lastUsedInstant" value="1714367485" />
+                    <option name="lastUsedInstant" value="1714368254" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1714367239" />
+                    <option name="lastUsedInstant" value="1714368162" />
                   </RecentBranch>
                 </list>
               </option>
@@ -71,7 +74,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "devB",
+    "git-widget-placeholder": "Merging devB",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/colabotest",
     "node.js.detected.package.eslint": "true",
@@ -100,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714360912599</updated>
       <workItem from="1714360913686" duration="780000" />
-      <workItem from="1714367271007" duration="337000" />
+      <workItem from="1714367271007" duration="983000" />
     </task>
     <servers />
   </component>
@@ -118,7 +121,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
