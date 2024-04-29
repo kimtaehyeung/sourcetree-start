@@ -1,4 +1,5 @@
 a
+<<<<<<< HEAD
 developer A
 
 
@@ -6,3 +7,6 @@ c
 developer C
 
 
+=======
+developer B
+>>>>>>> f2de6f67f388115784616427dac2096fdd3f364d
