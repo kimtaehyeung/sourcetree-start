@@ -11,3 +11,5 @@ is master branch protected
 developerA push
 
 developerB push
+
+developerC push
