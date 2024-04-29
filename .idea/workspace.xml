@@ -34,12 +34,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="devB" />
-                    <option name="lastUsedInstant" value="1714367485" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1714367900" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1714367239" />
+                    <option name="branchName" value="devB" />
+                    <option name="lastUsedInstant" value="1714367865" />
                   </RecentBranch>
                 </list>
               </option>
@@ -71,7 +71,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "devB",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/colabotest",
     "node.js.detected.package.eslint": "true",
@@ -100,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714360912599</updated>
       <workItem from="1714360913686" duration="780000" />
-      <workItem from="1714367271007" duration="337000" />
+      <workItem from="1714367271007" duration="686000" />
     </task>
     <servers />
   </component>
@@ -118,7 +118,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
