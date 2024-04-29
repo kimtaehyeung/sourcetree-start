@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae78ccdd-046b-450f-8e0e-89ec4402560a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="devB" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,12 +36,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="devB" />
-                    <option name="lastUsedInstant" value="1714368254" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1714369031" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1714368162" />
+                    <option name="branchName" value="devB" />
+                    <option name="lastUsedInstant" value="1714368948" />
                   </RecentBranch>
                 </list>
               </option>
@@ -74,7 +73,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "Merging devB",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/colabotest",
     "node.js.detected.package.eslint": "true",
@@ -82,15 +81,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "settings.editor.selected.configurable": "GitLink.ProjectSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.21" />
-        <option value="bundled-js-predefined-1d06a55b98c1-3d8cd37a7330-JavaScript-IU-241.15989.21" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.69" />
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-IU-241.15989.69" />
       </set>
     </attachedChunks>
   </component>
@@ -103,7 +102,8 @@
       <option name="presentableId" value="Default" />
       <updated>1714360912599</updated>
       <workItem from="1714360913686" duration="780000" />
-      <workItem from="1714367271007" duration="983000" />
+      <workItem from="1714367271007" duration="2892000" />
+      <workItem from="1714371960114" duration="597000" />
     </task>
     <servers />
   </component>
@@ -115,22 +115,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
