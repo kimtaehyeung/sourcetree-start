@@ -1,10 +1,8 @@
 a
 developer A
-<<<<<<< HEAD
+
 
 c
 developer C
 
-=======
-bbbbbb
->>>>>>> cb9be3eb185afe0517e3201794373846a849d5ab
+
